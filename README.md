@@ -4,7 +4,7 @@
 
 🎓 **Education:**
 - **Bachelor Degree in Computer Science**, Ovidius University of Constanta (2022-2025)
-  GPA: **9.50**
+  _GPA: **9.50**_
 
 💻 **Personal Projects:**
 - **GoGreen**: A sustainable mobility application to reduce traffic, pollution, and energy consumption, improving urban quality of life.  
@@ -21,7 +21,7 @@
 
 📫 **How to reach me:**
 - Email: [alexandramereuta7@gmail.com]
-- LinkedIn: [[link]](https://www.linkedin.com/in/alexandra-mereu%C8%9B%C4%83/)
+- (LinkedIn)(https://www.linkedin.com/in/alexandra-mereu%C8%9B%C4%83/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alemereuta&show_icons=true&theme=radical)
 
