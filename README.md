@@ -1,6 +1,6 @@
 ## Hi, I'm Alexandra 👋
 
-🌱  I am passionate about **frontend development, game design, and database management systems**. I enjoy building **interactive, user-foused applications** while continuously improving my technical and creative skills. I am particularly interested in **Python, C#, Dart, SQL**, and I am seeking a **challenging role** where I can contribute my skills in **effective communication, leadership, and critical thinking**.
+🌱  I am passionate about **frontend development, game design, and database management systems**. I enjoy building **interactive, user-focused applications** while continuously improving my technical and creative skills. I am particularly interested in **Python, C#, Dart, SQL**, and I am seeking a **challenging role** where I can contribute my skills in **effective communication, leadership, and critical thinking**.
 
 🎓 **Education:**
 - **Bachelor Degree in Computer Science**, Ovidius University of Constanta _GPA: **9.50**_ (2022-2025)
