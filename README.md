@@ -19,7 +19,7 @@
 
 📫 **How to reach me:**
 - Email: [alexandramereuta7@gmail.com]
-- [LinkedIn](https://www.linkedin.com/in/alexandra-mereu%C8%9B%C4%83/)
+- [LinkedIn](https://www.linkedin.com/in/alexandra-mereuta7/)
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alemereuta&show_icons=true&theme=radical)
 
