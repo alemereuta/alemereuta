@@ -21,9 +21,10 @@
 - Email: [alexandramereuta7@gmail.com]
 - [LinkedIn](https://www.linkedin.com/in/alexandra-mereu%C8%9B%C4%83/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alemereuta&show_icons=true&theme=radical)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alemereuta&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alemereuta&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alemereuta&layout=compact&theme=radical)-->
+
 
 
   
